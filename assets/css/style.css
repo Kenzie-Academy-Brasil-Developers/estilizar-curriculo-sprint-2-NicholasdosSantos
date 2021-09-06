@@ -65,6 +65,10 @@ hr{
 	float: right;
 	color: #181818;
 }
+#contactDetails a{
+	text-decoration: none;
+	color: #181818;
+}
 
 .sectionTitle {
 	float: left;

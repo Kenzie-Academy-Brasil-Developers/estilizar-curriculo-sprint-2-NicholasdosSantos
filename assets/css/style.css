@@ -2,6 +2,7 @@
 	font-family: Arial, Helvetica, sans-serif; 
 	background-color: #f3f3f3;
 	font-weight: 300;
+	padding: 0px 20%;
 }
 .clear {
 	clear: both;
@@ -9,7 +10,7 @@
 .sectionTitle h1{
 	font-family: Rokkitt, sans-serif;
 	font-style: italic;
-	color: orange;
+	color: #cf8a05;
 	font-weight: 400;
 	font-size: 20px;
 }
@@ -21,8 +22,8 @@ section:last-child{
 	border-bottom: none;
 }
 hr{
-	border: solid 2px orange;
-	width: 95%;
+	border: solid 1px #cf8a05;
+	width: 100%;
 }
 .sectionContent{
 	font-family: Lato;
@@ -35,13 +36,18 @@ hr{
 }
 .subDetails{
 	font-style: italic;
+	color: #444444;
 }
 .keySkills{
 	display: flex;
 	flex-direction: row;
-	justify-content: space-around;
+	justify-content: flex-start;
 	align-items: flex-start;
 	list-style-type: none;
+	padding-left: 0px;
+}
+.keySkills div{
+	margin-right: 100px;
 }
 #headshot {
 	width: 12.5%;
@@ -77,6 +83,9 @@ hr{
 }
 
 .sectionContent {
-	float: right;
+	float: left;
 	width: 72.5%;
+}
+h2{
+	color: #444444;
 }

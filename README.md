@@ -13,16 +13,16 @@ Para os títulos você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'H
 
 ## Cores
 As seguintes cores serão usadas pelo documento para texto e fundos:
-- `#444444` (slate grey, títulos e sub-títulos)
-- `#181818` (jet black, contatos e descrições)
-- `#cf8a05` (yellow, tópicos e divisória)
-- `#f3f3f3` (off white, cor de fundo)
-- `#dedede` (light grey, divisória entre os tópicos)
+- `#444444` (slate grey, títulos e sub-títulos) ok
+- `#181818` (jet black, contatos e descrições) ok 
+- `#cf8a05` (yellow, tópicos e divisória) ok
+- `#f3f3f3` (off white, cor de fundo) ok
+- `#dedede` (light grey, divisória entre os tópicos) ok
 
 ## Bordas
-- a borda que separa o cabeçalho do resto do currículo tem 2px de espessura
-- bordas entre cada seção tem 1px de espessura
-
+- a borda que separa o cabeçalho do resto do currículo tem 2px de espessura ok
+- bordas entre cada seção tem 1px de espessura ok
+s
 ## Dicas de como posicionar: 
 Por enquanto vocês podem usar os atributos CSS: float e width (Vocês aprenderão outras formas).
 - O atributo width define uma largura da tag.
